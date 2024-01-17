@@ -1,6 +1,6 @@
-# galeria
-You can see the app working <a href="https://reccloud.com/pt/u/0sgi4b1">HERE</a> 
+# Gallery
 
+![ezgif-1-0fc0a796fa](https://github.com/rafaelabou1999/tabs-flutter/assets/120579642/65717bcf-b8bc-4c4c-9ac9-caecd3d78512)
 
 A new Flutter project.
 
